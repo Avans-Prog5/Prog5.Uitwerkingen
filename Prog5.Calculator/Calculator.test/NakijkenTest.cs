@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
 using Calculator;
+using Calculator.Library;
 
 namespace Calculator.test
 {
