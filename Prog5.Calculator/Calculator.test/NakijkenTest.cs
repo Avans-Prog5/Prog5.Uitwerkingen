@@ -76,7 +76,7 @@ namespace Calculator.test
             int age = calculator.CalculateAge(dateOfBirth);
 
             //3. Assert
-            Assert.AreEqual(26, age);
+            Assert.AreEqual(27, age);
         }
     }
 }
